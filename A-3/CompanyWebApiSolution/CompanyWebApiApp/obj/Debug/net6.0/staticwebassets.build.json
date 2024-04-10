@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UsAicEpijINeXvY5a2h58V4icHkUYZFMY2fyfmDQ1kE=",
+  "Source": "CompanyWebApiApp",
+  "BasePath": "_content/CompanyWebApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

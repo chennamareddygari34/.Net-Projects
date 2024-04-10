@@ -1,0 +1,13 @@
+﻿@model int
+
+@{
+    ViewData["Title"] = "DeleteEmployee";
+}
+
+<h1>DeleteEmployee</h1>
+
+<form asp-action="DeleteEmployee" method="post">
+    <input name="id" class="form-control" value="@Model" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="GetAllEmployees" asp-controller="Employee" class="btn btn-secondary">Cancel</a>
+</form>

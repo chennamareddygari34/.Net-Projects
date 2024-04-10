@@ -1,0 +1,95 @@
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.csproj.AssemblyReference.cache
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.AssemblyInfoInputs.cache
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.AssemblyInfo.cs
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.csproj.CoreCompileInputs.cache
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\appsettings.json
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\CompanyWebApiApp.exe
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\CompanyWebApiApp.deps.json
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\CompanyWebApiApp.runtimeconfig.json
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\CompanyWebApiApp.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\CompanyWebApiApp.pdb
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Npgsql.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.CompanyWebApiApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CompanyWebApiApp.props
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CompanyWebApiApp.props
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CompanyWebApiApp.props
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\scopedcss\bundle\CompanyWebApiApp.styles.css
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.csproj.CopyComplete
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\refint\CompanyWebApiApp.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.pdb
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.genruntimeconfig.cache
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\ref\CompanyWebApiApp.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\appsettings.json
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\CompanyWebApiApp.exe
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\CompanyWebApiApp.deps.json
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\CompanyWebApiApp.runtimeconfig.json
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\CompanyWebApiApp.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\CompanyWebApiApp.pdb
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Npgsql.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.csproj.AssemblyReference.cache
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.AssemblyInfoInputs.cache
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.AssemblyInfo.cs
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.csproj.CoreCompileInputs.cache
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.CompanyWebApiApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CompanyWebApiApp.props
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CompanyWebApiApp.props
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CompanyWebApiApp.props
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\scopedcss\bundle\CompanyWebApiApp.styles.css
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.csproj.CopyComplete
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\refint\CompanyWebApiApp.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.pdb
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\CompanyWebApiApp.genruntimeconfig.cache
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\obj\Debug\net6.0\ref\CompanyWebApiApp.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\arava.madhavilatha\Desktop\New folder\CompanyWebApiSolution\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chennamareddygari.p\Desktop\Santander_Kt_.Net\CompanyWebApiSolution\CompanyWebApiApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rGhcZVMDpMEgtzQ1+Hq+eRZDnGw874bdEPsX6kShJHg=",
+  "Source": "BankingFilterApp",
+  "BasePath": "_content/BankingFilterApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

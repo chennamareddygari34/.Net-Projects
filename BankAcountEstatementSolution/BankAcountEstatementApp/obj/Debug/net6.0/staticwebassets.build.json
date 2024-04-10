@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Kae0JckvHXAPPm92fKqpFQWAwTTFVyUdp6Dmwg/hSBo=",
+  "Source": "BankAcountEstatementApp",
+  "BasePath": "_content/BankAcountEstatementApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

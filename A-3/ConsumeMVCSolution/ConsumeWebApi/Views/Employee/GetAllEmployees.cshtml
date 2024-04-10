@@ -1,0 +1,45 @@
+﻿@using System.Data
+@model DataTable
+
+@{
+	ViewData["Title"] = "Fetching Data From WebApi";
+}
+<table class="table">
+	<thead>
+		<tr>
+			<th>@Html.DisplayName("employeeId")</th>
+			<th>@Html.DisplayName("employeeName")</th>
+			<th>@Html.DisplayName("dateOfBirth")</th>
+			<th>@Html.DisplayName("employeeEmail")</th>
+			<th>@Html.DisplayName("employeePhone")</th>
+			<th>@Html.DisplayName("employeeSalary")</th>
+
+			@* <th>@Html.DisplayName("departmentNumber")</th>
+			<th>@Html.DisplayName("departmentName")</th>
+			*@
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (DataRow row in Model.Rows)
+		{
+			<tr>
+				<td>@row["employeeId"]</td>
+
+				<td>@row["employeeName"]</td>
+
+				<td>@row["dateOfBirth"]</td>
+
+				<td>@row["employeeEmail"]</td>
+
+				<td>@row["employeePhone"]</td>
+
+				<td>@row["employeeSalary"]</td>
+
+				@* <td>@row["departmentNumber"]</td>
+
+			<td>@row["departmentName"]</td> *@
+
+			</tr>
+		}
+	</tbody>
+</table>
